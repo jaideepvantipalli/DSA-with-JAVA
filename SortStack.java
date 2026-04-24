@@ -24,6 +24,5 @@ public class SortStack{
             }
         }
         for(int i:temp) System.out.println(i+" ");
-    }
-    
+    }   
 }
