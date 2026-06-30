@@ -1,0 +1,19 @@
+@Morning session
+1.Construct an undirected graph of n vertices using adjaceny matrix and print the graph.
+2.Construct a Directed graph of n vertices using adjaceny matrix and print the graph.
+3.Construct a undirected graph using adjaceny list as nested list and print the graph.
+4.Construct a Directed graph using adjaceny list with nested list and print the graph.
+5.Construct an undirected graph with adjaceny list using hashmap
+6.same problem with Directed graph.
+
+@afternoon session
+1.Construct an undirected graph of n vertices using adjaceny matrix and display the dfs using recursion and iteration 
+2.Construct a Directed graph of n vertices using adjaceny matrix and display the dfs using recursion and iteration 
+3.Construct a undirected graph using adjaceny list as nested list and display the dfs using recursion and iteration 
+4.Construct a Directed graph using adjaceny list with nested list and display the dfs using recursion and iteration.
+5.Construct an undirected graph with adjaceny list and display the dfs using recursion and iteration.
+6.same problem with Directed graph and display the dfs using recursion and iteration.
+
+@Morning session
+1.Dfs on disconnected graph using adjaceny matrix with recursion without start vertex 
+2.Dfs on disconnected graph using adjaceny matrix with recursion with satrt vertex

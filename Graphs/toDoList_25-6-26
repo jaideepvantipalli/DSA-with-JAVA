@@ -1,0 +1,43 @@
+@Morning session
+
+1. Dfs on disconnected graph using adjaceny matrix with recursion without start vertex .
+2. Dfs on disconnected graph using adjaceny matrix with recursion with start vertex.
+3. Dfs on disconnected graph using adjaceny matrix without recursion without start vertex.
+4. Dfs on disconnected graph using adjaceny matrix without recursion with start vertex.
+5. Dfs on disconnected graph using adjaceny list with recursion without start vertex.
+6. Dfs on disconnected graph using adjaceny list with recursion with start vertex.
+7. Dfs on disconnected graph using adjaceny list without recursion without start vertex.
+8. Dfs on disconnected graph using adjaceny list without recursion with start vertex.
+
+9. Dfs on disconnected graph using with hashmap with recursion without start vertex .
+10. Dfs on disconnected graph using with hashmap with recursion with start vertex.
+11. Dfs on disconnected graph using with hashmap without recursion without start vertex.
+12. Dfs on disconnected graph using with hashmap without recursion with start vertex.
+
+13. Bfs on disconnected graph using adjaceny matrix without start vertex.
+14. Bfs on disconnected graph using adjaceny matrix with start vertex.
+15. Bfs on disconnected graph using adjaceny list without start vertex.
+16. Bfs on disconnected graph using adjaceny list with start vertex.
+17. Bfs on disconnected graph using hashmap without start vertex.
+18. Bfs on disconnected graph using hashmap with start vertex.
+
+@Afternoon session
+
+1. Given undirected disconnected graph find and return all the components.
+    component 1: 0 2 3 1
+    component 2: 1 2 3
+2. solve above problem using adjacency matrix and adjacency list.
+3.same problem adjacency matrix without recursion
+4. same problem adjacency list with recursion
+5. same problem adjacency list without recursion.
+6.same problem with adjacency
+7.same problem with hashmap and recursion.
+8.same problem using adjacency matrix bfs and
+9.adjacency list and hashmap
+10.given undirected disconnected graph find no of components.
+
+29-6-26
+@Morning session
+
+1.Construct a graph with n vertices and edges.now find no of components and vertices in each component using DSU.
+2.
